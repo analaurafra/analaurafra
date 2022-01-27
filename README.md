@@ -1,4 +1,4 @@
-### Hi, I am Ana Laura, let's discovery IT world with me?! 👋
+### Hi, I am Ana Laura, let's discovery IT world with me?! 📚👋
 
 ##
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/analauramartins/)](https://www.linkedin.com/in/analauramartins/)
@@ -29,9 +29,7 @@
   ##
   
   <div> 
-  <a href = "mailto:analaura.francisco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/analauramartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  
   ![Snake animation](https://github.com/analaurafra/analaurafra/blob/output/github-contribution-grid-snake.svg)
  
   </div>
