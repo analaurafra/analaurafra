@@ -22,7 +22,4 @@
  
   </div>
   
-  ##
 
-![snake gif](https://github.com/analaurafra/analaurafra/blob/output/github-contribution-grid-snake.svg)
- 
