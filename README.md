@@ -1,6 +1,6 @@
-### Hi, I am Ana Laura, let's discovery IT world with me?! 👾🛸
+### Hi, I am Ana Laura. Let's discover the IT world with me?! 👾🛸
 
-- Currently developing tasks and projects as an IT student!📚
+- Currently developing tasks and projects as a System Analyst!📚
 
 ##
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/analauramartins/)](https://www.linkedin.com/in/analauramartins/)
